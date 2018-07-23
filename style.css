@@ -1,0 +1,36 @@
+h1 {
+  color: blue;
+  font-size: 21px;
+}
+h2{
+  color:black;
+  font-size: 26px;
+}
+h3{
+  color:black;
+  font-size: 26px;
+}
+p{
+  color: purple;
+  font-size:23px;
+}
+.hob {
+  color: blue;
+  font-size: 23px;
+}
+.top{
+  color: purple;
+  font-size: 40px;
+}
+p {
+    font-family: "Times New Roman";
+}
+li{
+  color:purple;
+  font-size: 22px;
+}
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhCEtrJ52PTENYL6MH-QtkbDnBm_AmgOAfhZttlTgLI3QrVvq9w");
+  background-repeat: no-repeat;
+  
+}
